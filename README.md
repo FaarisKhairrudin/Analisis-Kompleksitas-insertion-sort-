@@ -23,6 +23,3 @@ Tujuan utama dari proyek ini adalah untuk mengevaluasi kompleksitas waktu dan pe
 - Untuk dataset kecil, baik **Insertion Sort Iteratif** maupun **Insertion Sort Rekursif** dapat digunakan dengan performa yang hampir setara.
 - Untuk dataset yang lebih besar, **Insertion Sort Rekursif** lebih efisien dibandingkan **Insertion Sort Iteratif** karena memberikan waktu eksekusi yang lebih cepat.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
